@@ -1,0 +1,2 @@
+export const CHANGE_DRESS = 'CHANGE_DRESS'
+export const RESET_DRESS = 'RESET_DRESS'

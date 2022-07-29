@@ -1,8 +1,8 @@
 import { combineReducers } from 'redux'
-import UserRegistrationReducer from './UserRegistrationReducer'
+import DressingRoomReducer from './DressingRoomReducer'
 
 const rootReducer = combineReducers({
-    UserRegistrationReducer
+    DressingRoomReducer
 })
 
 export default rootReducer
